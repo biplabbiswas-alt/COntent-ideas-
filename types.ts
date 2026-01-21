@@ -8,6 +8,8 @@ export interface ChannelDNA {
   popularTopics: string[];
   underperformingTopics: string[];
   audienceFeedbackPattern: string;
+  brandVoice: string;
+  growthOpportunities: string[];
 }
 
 export interface VideoIdea {
